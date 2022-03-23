@@ -1,4 +1,4 @@
-# TS2Vec
+# Contrastive learning
 
 ## Get started
 This project has been executed via google colab.
