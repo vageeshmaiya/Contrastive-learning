@@ -47,3 +47,9 @@ Any other changes such as `batch-size` or `max-train-length` can be done in the 
 We appreciate the following github repos a lot for their valuable code base:
 
 https://github.com/yuezhihan/ts2vec
+
+Diao, W., Saxena, S., Pecht, M. Accelerated Cycle Life Testing and Capacity Degradation Modeling of LiCoO2 -graphite Cells. J. Power
+Sources 2019, 435, 226830.
+
+Kollmeyer, Phillip (2018),"Panasonic 18650PF Li-ion Battery Data",
+Mendeley Data, V1, doi: 10.17632/wykht8y7tg.1
