@@ -44,7 +44,7 @@ Any other changes such as `batch-size` or `max-train-length` can be done in the 
 
 ## Acknowledgement
 
-We appreciate the following github repos a lot for their valuable code base:
+We appreciate the following github repos a lot for their valuable code base and datasets:
 
 https://github.com/yuezhihan/ts2vec
 
