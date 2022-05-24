@@ -9,7 +9,7 @@ This project has been executed via google colab.
 
 2. Extract the contents of the zip file and upload it into google drive.
 
-3. The code to be executed in google colab can be found in the Battery_parameter_estimation_using_Contrastive_learning.ipynb file.
+3. The code to be executed in google colab can be found in the `Battery_parameter_estimation_using_Contrastive_learning.ipynb` file.
 
 4. Make sure to set the runtime to GPU before running the code.
 
